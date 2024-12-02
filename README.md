@@ -12,9 +12,6 @@ I've been learning to code casually for a long time, but only recently I took th
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm a Potterhead, but also a huge F.R.I.E.N.D.S fan.
 
-<a href="https://www.github.com/TechnoZain" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TechnoZain?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
